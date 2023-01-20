@@ -1,2 +1,2 @@
-0.0.0.0 sonicwall.com
-0.0.0.0 mysonicwall.com
+0.0.0.0 https://www.sonicwall.com
+0.0.0.0 https://mysonicwall.com
