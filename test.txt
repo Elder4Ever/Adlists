@@ -1,1 +1,3 @@
 0.0.0.0 google.com
+0.0.0.0 www.google.com
+0.0.0.0 https://www.google.coms
